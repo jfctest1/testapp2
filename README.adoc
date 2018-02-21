@@ -1,4 +1,4 @@
-Update 1
+Update 2
 
 = Externalized Configuration - Eclipse Vert.x Booster
 
